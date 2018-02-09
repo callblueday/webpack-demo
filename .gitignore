@@ -1,0 +1,34 @@
+# Mac OS
+.DS_Store
+
+# NPM
+node_modules
+npm-*
+
+# Testing
+/.nyc_output
+/coverage
+
+# Build
+/build
+/dist
+/.opt-in
+
+
+# scratch-gui/.git
+/src/scratch-gui/.git
+
+# scratch-vm/.git
+/third_part/scratch-vm/.git
+
+# scratch-vm/node_modules
+/third_part/scratch-vm/node_modules
+
+# vscode
+.vscode/
+
+translations/
+.idea/
+
+package-lock.json
+yarn-error.log

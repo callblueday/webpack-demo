@@ -1,1 +1,1 @@
-import processing from 'processing-js';
+document.write("<h1>hello world</h1>");
